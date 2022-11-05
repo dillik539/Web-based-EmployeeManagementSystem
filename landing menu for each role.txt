@@ -1,0 +1,60 @@
+Employee:
+
+Paystub
+
+Feedback
+
+Time request
+
+Access Hours
+	- Access work hours
+	- Access paid time off
+
+Manager:
+
+Set Team Hours
+
+Lookup Employee
+
+View Time Requests
+	- Approve/Deny requests
+
+Paystub
+
+Feedback
+
+Access Employee Feedback
+
+Time request
+
+Access Hours
+	- Access work hours
+	- Access paid time off
+
+HR:
+
+Insert New User Information
+
+
+Company Communication
+	-Add
+	-update
+	-delete
+
+Upload Employee Paystub
+
+Feedback
+	-reply to feedback
+
+
+SiteAdmin:
+
+Add New User
+	- Email login info
+
+All Users
+	-update
+	-delete
+
+
+
